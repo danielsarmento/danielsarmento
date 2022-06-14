@@ -1,5 +1,5 @@
 ## Hi There!
-I'm Daniel Sarmento, from Campina Grande, Brazil. Currently undergraduate of Software Analysis and Development at UNIPÊ. I have been working to complete my career transition from engineering, where I have graduated since 2018 at Federal University of Campina Grande as a Mechanical Engineer, to a software developer. Over the years I have developed a fascination with technology and all its transformative power
+I'm Daniel Sarmento, from Campina Grande, Brazil. Currently undergraduate of Software Analysis and Development at UNIPÊ. I have been working to complete my career transition from engineering, where I have graduated since 2018 at Federal University of Campina Grande as a Mechanical Engineer, to a software developer. Over the years I have developed a fascination with technology and all its transformative power.
 
 Follow me on LinkedIn!
 
