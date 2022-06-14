@@ -3,7 +3,7 @@ I'm Daniel Sarmento, from Campina Grande, Brazil. Currently undergraduated of So
 
 Follow me on LinkedIn!
 
-Main techs: JavaScript, TypeScript, NodeJS, ExpressJs, ReactJS, MongoDB, HTML, CSS.
+Main techs: JavaScript, TypeScript, NodeJS, Express, React, MongoDB, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/danielsarmento">
