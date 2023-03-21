@@ -1,9 +1,9 @@
-## Hi There!
-I'm Daniel Sarmento, from Campina Grande, Brazil. Currently i'am software developer in Impulse B2B and undergraduated of Software Analysis and Development at UNIPÊ. I have been working to complete my career transition from engineering, where I have graduated since 2018 at Federal University of Campina Grande as a Mechanical Engineer, to a software developer. Over the years I have developed a fascination with technology and all its transformative power.
+## Olá!
+Meu nome é Daniel Sarmento e sou natural de Campina Grande-PB, Brasil. Atualmente, trabalho como desenvolvedor Back-end na Impulse B2B e sou estudante de Análise e Desenvolvimento de Sistemas. Desde minha formação como Engenheiro Mecânico na Universidade Federal de Campina Grande em 2018, tenho buscado fazer uma transição de carreira para atuar como desenvolvedor de software. Ao longo dos anos, desenvolvi uma grande fascinação pela tecnologia e todo o seu poder transformador.
 
-Follow me on LinkedIn!
+Siga-me no LinkedIn!
 
-Main techs: JavaScript, TypeScript, NodeJS, Express, React, MongoDB, HTML, CSS.
+Minhas Stacks: JavaScript, TypeScript, NodeJS, Express, React, MongoDB, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/danielsarmento">
