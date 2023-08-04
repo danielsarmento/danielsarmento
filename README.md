@@ -1,9 +1,9 @@
 ## Olá!
-Meu nome é Daniel Sarmento e sou natural de Campina Grande-PB, Brasil. Atualmente, trabalho como desenvolvedor Back-end na Impulse B2B e sou estudante de Análise e Desenvolvimento de Sistemas. Desde minha formação como Engenheiro Mecânico na Universidade Federal de Campina Grande em 2018, tenho buscado fazer uma transição de carreira para atuar como desenvolvedor de software. Ao longo dos anos, desenvolvi uma grande fascinação pela tecnologia e todo o seu poder transformador.
+Meu nome é Daniel Sarmento e sou natural de Campina Grande-PB, Brasil. Atualmente, trabalho como Desenvolvedor Full Stack na ISH Tecnologia. Ao longo dos anos, desde a minha formação com engenheiro mecânico, desenvolvi uma grande fascinação pela tecnologia e todo o seu poder transformador.
 
 Siga-me no LinkedIn!
 
-Minhas Stacks: JavaScript, TypeScript, NodeJS, Express, React, MongoDB, HTML, CSS.
+Meus conhecimentos: JavaScript, TypeScript, NodeJS, Express, ReactJs, NestJs, Docker, Microserviços, Kafka 
 
 <div align="center">
   <a href="https://github.com/danielsarmento">
